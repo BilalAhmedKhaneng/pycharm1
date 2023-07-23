@@ -1,3 +1,4 @@
-i=0
-for i in range  (1,5):
-    print(i)
+def average (a,b):
+    print("the average is ",(a+b)/2)
+    average(4,6)
+
